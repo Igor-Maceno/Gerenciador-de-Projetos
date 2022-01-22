@@ -21,6 +21,17 @@
       "costs": 0,
       "services": [],
       "id": 2
+    },
+    {
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "name": "Interface Adaga Digital",
+      "budger": "7000",
+      "costs": 0,
+      "services": [],
+      "id": 3
     }
   ],
   "categories": [
