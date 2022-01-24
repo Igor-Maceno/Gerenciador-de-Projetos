@@ -10,6 +10,17 @@
       "costs": 0,
       "services": [],
       "id": 1
+    },
+    {
+      "name": "Sistema de relatório",
+      "budget": "1000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "costs": 0,
+      "services": [],
+      "id": 2
     }
   ],
   "categories": [
