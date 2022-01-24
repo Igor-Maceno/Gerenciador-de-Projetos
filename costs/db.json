@@ -1,8 +1,8 @@
 {
   "projects": [
     {
-      "name": "Projeto teste",
-      "budger": "50.000",
+      "name": "Site OFEC",
+      "budget": "3000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
@@ -10,28 +10,6 @@
       "costs": 0,
       "services": [],
       "id": 1
-    },
-    {
-      "name": "Projeto teste",
-      "budger": "50.000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "costs": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "name": "Interface Adaga Digital",
-      "budger": "7000",
-      "costs": 0,
-      "services": [],
-      "id": 3
     }
   ],
   "categories": [
