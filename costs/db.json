@@ -21,6 +21,17 @@
       "costs": 0,
       "services": [],
       "id": 2
+    },
+    {
+      "name": "Iluminação estádio",
+      "budget": "75000",
+      "category": {
+        "id": "1",
+        "name": "Infraestrutura"
+      },
+      "costs": 0,
+      "services": [],
+      "id": 3
     }
   ],
   "categories": [
