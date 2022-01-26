@@ -1,4 +1,4 @@
-import Styles from './Project.module.css'
+import styles from './Project.module.css'
 import {useParams} from 'react-router-dom';
 import {useState, useEffect} from 'react'
 
