@@ -32,6 +32,17 @@
       "costs": 0,
       "services": [],
       "id": 3
+    },
+    {
+      "name": "Classificars",
+      "budget": "10.700",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "costs": 0,
+      "services": [],
+      "id": 4
     }
   ],
   "categories": [
@@ -45,10 +56,6 @@
     },
     {
       "id": 3,
-      "name": "Design"
-    },
-    {
-      "id": 4,
       "name": "Planejamento"
     }
   ]
